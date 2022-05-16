@@ -10,6 +10,9 @@ function substract(num1,num2){
 function multiply(num1,num2){
     return num1 * num2;
 }
+function modulo(num1,num2){
+    return num1 % num2;
+}
 // passing function as and argument here
 
 function calculator(num1, num2, operator){
